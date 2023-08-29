@@ -1,0 +1,14 @@
+D:\Code\Studio Code\obj\Debug\net7.0\Studio Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Studio Code\obj\Debug\net7.0\Studio Code.AssemblyInfoInputs.cache
+D:\Code\Studio Code\obj\Debug\net7.0\Studio Code.AssemblyInfo.cs
+D:\Code\Studio Code\obj\Debug\net7.0\Studio Code.csproj.CoreCompileInputs.cache
+D:\Code\Studio Code\bin\Debug\net7.0\Studio Code.exe
+D:\Code\Studio Code\bin\Debug\net7.0\Studio Code.deps.json
+D:\Code\Studio Code\bin\Debug\net7.0\Studio Code.runtimeconfig.json
+D:\Code\Studio Code\bin\Debug\net7.0\Studio Code.dll
+D:\Code\Studio Code\bin\Debug\net7.0\Studio Code.pdb
+D:\Code\Studio Code\obj\Debug\net7.0\Studio Code.dll
+D:\Code\Studio Code\obj\Debug\net7.0\refint\Studio Code.dll
+D:\Code\Studio Code\obj\Debug\net7.0\Studio Code.pdb
+D:\Code\Studio Code\obj\Debug\net7.0\Studio Code.genruntimeconfig.cache
+D:\Code\Studio Code\obj\Debug\net7.0\ref\Studio Code.dll
